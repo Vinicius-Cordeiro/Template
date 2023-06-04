@@ -1,0 +1,27 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+*/Content
+*/Content/Metahumans
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+
+# Assets that are imported from the marketplace or created 
+Content/*
+Content/Metahumans/*
+Content/MSPresets/*
+Content/Developers/*
+Content/__ExternalObjects__/*
+Content/__ExternalActors__/*
+Content/Maps/*
+Content/StarterContent/*
